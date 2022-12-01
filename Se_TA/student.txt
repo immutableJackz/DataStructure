@@ -1,0 +1,6 @@
+xiaofei 0000
+xiaoming 1111
+xiaoxiao 1234
+xiaohei 5555
+xiaohong 7777
+xiaojiao 8888
