@@ -1,0 +1,8 @@
+﻿  mian.cpp
+F:\vs\project\数据结构\CG\顺序表\Se_TA\Se_TA\mian.cpp(16,9): warning C4101: “tmp”: 未引用的局部变量
+F:\vs\project\数据结构\CG\顺序表\Se_TA\Se_TA\mian.cpp(16,14): warning C4101: “indx”: 未引用的局部变量
+F:\vs\project\数据结构\CG\顺序表\Se_TA\Se_TA\List.cpp(85,32): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\顺序表\Se_TA\Se_TA\List.cpp(82): message : 在编译 类 模板 成员函数“long List<student>::stringTOlong(std::string)”时
+F:\vs\project\数据结构\CG\顺序表\Se_TA\Se_TA\List.cpp(100): message : 查看对正在编译的函数 模板 实例化“long List<student>::stringTOlong(std::string)”的引用
+F:\vs\project\数据结构\CG\顺序表\Se_TA\Se_TA\List.cpp(91): message : 查看对正在编译的 类 模板 实例化“List<student>”的引用
+  Se_TA.vcxproj -> F:\vs\project\数据结构\CG\顺序表\Se_TA\x64\Debug\Se_TA.exe
