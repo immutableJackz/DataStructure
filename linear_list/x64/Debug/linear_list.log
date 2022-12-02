@@ -1,0 +1,124 @@
+﻿  maincpp.cpp
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(180,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(196,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(215,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(231,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(240,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(254,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(21,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(20): message : 在编译 类 模板 成员函数“void Liner<student>::ListInsertByLocate(int,T)”时
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(64): message : 查看对正在编译的函数 模板 实例化“void Liner<student>::ListInsertByLocate(int,T)”的引用
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(178): message : 查看对正在编译的 类 模板 实例化“Liner<student>”的引用
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(32,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(31): message : 在编译 类 模板 成员函数“void Liner<student>::ListInsertBeByVal(int &,T,T)”时
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(68): message : 查看对正在编译的函数 模板 实例化“void Liner<student>::ListInsertBeByVal(int &,T,T)”的引用
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(47,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(46): message : 在编译 类 模板 成员函数“void Liner<student>::ListInsertAfByVal(int &,T,T)”时
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(74): message : 查看对正在编译的函数 模板 实例化“void Liner<student>::ListInsertAfByVal(int &,T,T)”的引用
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(62,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(61): message : 在编译 类 模板 成员函数“void Liner<student>::ListDeleteByVal(int &,T)”时
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(82): message : 查看对正在编译的函数 模板 实例化“void Liner<student>::ListDeleteByVal(int &,T)”的引用
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(78,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(77): message : 在编译 类 模板 成员函数“bool Liner<student>::ListDeleteByLocation(int,T &)”时
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(88): message : 查看对正在编译的函数 模板 实例化“bool Liner<student>::ListDeleteByLocation(int,T &)”的引用
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(108,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(107): message : 在编译 类 模板 成员函数“bool Liner<student>::GetElem(int,T &)”时
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(92): message : 查看对正在编译的函数 模板 实例化“bool Liner<student>::GetElem(int,T &)”的引用
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(127,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(126): message : 在编译 类 模板 成员函数“int Liner<student>::LocateElem(T)”时
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(94): message : 查看对正在编译的函数 模板 实例化“int Liner<student>::LocateElem(T)”的引用
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(141,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(140): message : 在编译 类 模板 成员函数“void Liner<student>::UpdateList(int,T)”时
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(99): message : 查看对正在编译的函数 模板 实例化“void Liner<student>::UpdateList(int,T)”的引用
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(160,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(159): message : 在编译 类 模板 成员函数“bool Liner<student>::ListEmpty(void)”时
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(95): message : 查看对正在编译的函数 模板 实例化“bool Liner<student>::ListEmpty(void)”的引用
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(173,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(172): message : 在编译 类 模板 成员函数“int Liner<student>::ListLength(void)”时
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(96): message : 查看对正在编译的函数 模板 实例化“int Liner<student>::ListLength(void)”的引用
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(168,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(166): message : 在编译 类 模板 成员函数“void Liner<student>::InitList(std::vector<T,std::allocator<T>>)”时
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(8): message : 查看对正在编译的函数 模板 实例化“void Liner<student>::InitList(std::vector<T,std::allocator<T>>)”的引用
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\List.cpp(5): message : 在编译 类 模板 成员函数“Liner<student>::Liner(std::vector<T,std::allocator<T>>)”时
+          with
+          [
+              T=student
+          ]
+F:\vs\project\数据结构\CG\linear_list\linear_list\maincpp.cpp(61): message : 查看对正在编译的函数 模板 实例化“Liner<student>::Liner(std::vector<T,std::allocator<T>>)”的引用
+          with
+          [
+              T=student
+          ]
+  linear_list.vcxproj -> F:\vs\project\数据结构\CG\linear_list\x64\Debug\linear_list.exe
