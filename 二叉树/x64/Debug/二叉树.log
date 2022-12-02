@@ -1,0 +1,25 @@
+﻿  Binary_tree.cpp
+  MAIN.cpp
+F:\vs\project\数据结构\CG\二叉树\二叉树\Binary_tree.cpp(455,6): warning C4101: “temp”: 未引用的局部变量
+F:\vs\project\数据结构\CG\二叉树\二叉树\Binary_tree.cpp(454): message : 在编译 类 模板 成员函数“void Binary_tree<int>::sort_arr(int [][3],int)”时
+F:\vs\project\数据结构\CG\二叉树\二叉树\Binary_tree.cpp(231): message : 查看对正在编译的函数 模板 实例化“void Binary_tree<int>::sort_arr(int [][3],int)”的引用
+F:\vs\project\数据结构\CG\二叉树\二叉树\Binary_tree.cpp(16): message : 在编译 类 模板 成员函数“void Binary_tree<int>::getLevel(Node<T> *)”时
+          with
+          [
+              T=int
+          ]
+F:\vs\project\数据结构\CG\二叉树\二叉树\MAIN.cpp(5): message : 查看对正在编译的函数 模板 实例化“void Binary_tree<int>::getLevel(Node<T> *)”的引用
+          with
+          [
+              T=int
+          ]
+F:\vs\project\数据结构\CG\二叉树\二叉树\Binary_tree.cpp(11): message : 在编译 类 模板 成员函数“Binary_tree<int>::Binary_tree(Binary_tree<int> &)”时
+F:\vs\project\数据结构\CG\二叉树\二叉树\MAIN.cpp(37): message : 查看对正在编译的函数 模板 实例化“Binary_tree<int>::Binary_tree(Binary_tree<int> &)”的引用
+F:\vs\project\数据结构\CG\二叉树\二叉树\MAIN.cpp(35): message : 查看对正在编译的 类 模板 实例化“Binary_tree<int>”的引用
+  Node.cpp
+  Queue.cpp
+  Stack.cpp
+  正在生成代码...
+F:\vs\project\数据结构\CG\二叉树\二叉树\Stack.cpp(13): warning C4715: “Stack<Node<int> *>::getTop”: 不是所有的控件路径都返回值
+F:\vs\project\数据结构\CG\二叉树\二叉树\Queue.cpp(33): warning C4715: “Queue<Node<int> *>::getFront”: 不是所有的控件路径都返回值
+  二叉树.vcxproj -> F:\vs\project\数据结构\CG\二叉树\x64\Debug\二叉树.exe
